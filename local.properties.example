@@ -1,0 +1,3 @@
+# Package Name in DJI developer console must be com.skypatrol.groundstation
+sdk.dir=C:/Users/YOUR_USER/AppData/Local/Android/Sdk
+DJI_APP_KEY=YOUR_MATCHING_DJI_APP_KEY
